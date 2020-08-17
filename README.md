@@ -3,5 +3,5 @@ This repository contains all the Python Program created by me from Basics to Adv
 
 Hi Guys,
 
-I am Abhay Bansal , have a B.Tech in Electronics & Communication. Have a work Experience of 11 years in IT with a good exposure in Oracle,Java & SAP BW.
-Wanted to have a good hands in coding but didn't get much chance to explore. However I can rate my self as one step ahead if i consider Begineer.
+I am Abhay Bansal , have a B.Tech in Electronics & Communication. Have a work Experience of 11 years in IT with a good exposure in Oracle,Java & SAP BW and HANA.
+Wanted to have a good hands in coding but didn't get much chance to explore. Currently there are no Python Programs added to this repository but soon we will have all the basics of Python here.
